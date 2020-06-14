@@ -1,2 +1,2 @@
 # dbscan_datamining_
- DBSCAN Algorithm in R
+ DBSCAN on Mushroon dataset  in R
